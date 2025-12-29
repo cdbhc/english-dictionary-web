@@ -163,7 +163,7 @@
       <!-- 页脚 -->
       <footer class="mt-16 py-8 bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700">
         <div class="container mx-auto px-4 text-center text-gray-600 dark:text-gray-400">
-          <p>基于 <a href="https://github.com/" 
+          <p>基于 <a href="https://github.com/cdbh" 
                     target="_blank" 
                     class="text-primary-600 hover:underline">
             Open English Dictionary
