@@ -9,7 +9,7 @@
             <router-link to="/" class="flex items-center space-x-2">
               <span class="text-2xl">📚</span>
               <span class="text-xl font-bold text-primary-600 dark:text-primary-400">
-                英汉词典
+                云涛英汉词典
               </span>
             </router-link>
 
