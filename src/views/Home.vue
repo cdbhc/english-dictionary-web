@@ -3,7 +3,7 @@
     <!-- Hero Section -->
     <div class="text-center mb-12">
       <h1 class="text-4xl md:text-5xl font-bold text-gray-900 dark:text-gray-100 mb-4">
-        智能英汉词典
+        云涛智能英汉词典
       </h1>
       <p class="text-xl text-gray-600 dark:text-gray-400 mb-8">
         基于记忆曲线的科学学习方法，高效记忆单词
