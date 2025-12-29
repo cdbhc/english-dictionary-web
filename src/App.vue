@@ -168,7 +168,7 @@
                     class="text-primary-600 hover:underline">
             Open English Dictionary
           </a> 数据构建</p>
-          <p class="mt-2 text-sm">Shawn-云涛>yp>
+          <p class="mt-2 text-sh">Shawn-云涛>yp>
         </div>
       </footer>
     </div>
