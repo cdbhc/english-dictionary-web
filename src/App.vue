@@ -163,12 +163,12 @@
       <!-- 页脚 -->
       <footer class="mt-16 py-8 bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700">
         <div class="container mx-auto px-4 text-center text-gray-600 dark:text-gray-400">
-          <p>基于 <a href="https://github.com/ahpxex/open-english-dictionary" 
+          <p>基于 <a href="https://github.com/" 
                     target="_blank" 
                     class="text-primary-600 hover:underline">
             Open English Dictionary
           </a> 数据构建</p>
-          <p class="mt-2 text-sm">开源项目 · 自由部署</p>
+          <p class="mt-2 text-sm">Shawn-云涛>yp>
         </div>
       </footer>
     </div>
